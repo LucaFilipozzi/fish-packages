@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/jhillyerd/plugin-git
+description = A plugin for Oh My Fish with git aliases.
